@@ -44,14 +44,11 @@ header ul #contact a:hover
   background-color: goldenrod;
 }
 
-header li img
+paragraph li img
 {
-  width: 180px;
-  float: left;
-   margin-top: -20px;
-
+  width: 50px;
+  
 }
-
 
 
 
