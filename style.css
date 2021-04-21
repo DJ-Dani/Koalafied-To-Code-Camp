@@ -13,6 +13,11 @@ header
   box-shadow: 0 0 3px #000;
 }
 
+header li a
+{
+  text-align: left;
+}
+
 header li
 {
   display: inline;
@@ -44,11 +49,6 @@ header ul #contact a:hover
   background-color: goldenrod;
 }
 
-paragraph li img
-{
-  width: 50px;
-  
-}
 
 
 
